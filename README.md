@@ -14,7 +14,8 @@
 
            register_page.py - содержит класс для страницы "Регистрация"
            
-Тесты собраны в Файле: test_rostel.py           
+Тесты собраны в Файле: test_rostel.py  
+Требуемые библиотеки в файле requirements.txt.
 
 тесты запускаются из терминала командой: 
 pytest -v --driver Chrome --driver-path chromedriver.exe test_rostel.py
